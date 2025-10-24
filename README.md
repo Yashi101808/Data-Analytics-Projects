@@ -1,6 +1,8 @@
 ## 📊 Data Analytics Projects
 
 A collection of data analytics projects showcasing my work with **SQL, Power BI, Excel, and Data Science techniques**.
+[Project Portfolio](https://github.com/Yashi101808/Data-Analytics-Projects/blob/main/PROJECT%20PORTFOLIO.pptx)
+
 
 - 📊 **Daily Life Data Analysis**  
   Extracted insights from real-world datasets to identify patterns and trends in everyday activities.  
